@@ -1,7 +1,18 @@
-.App {
+/* .App {
   text-align: center;
+} */
+.input-group{
+  margin-left: 10px;
 }
 
+.btn btn-primary mt-2 mx-2{
+  margin-left: 40px;
+}
+
+.heading{
+  margin-left: 10px;
+  color: #0B5ED7;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
